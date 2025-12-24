@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Black Mamba",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-24T11:09:02.716349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/01_Black_Mamba_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Urami Bushi (Includes Hidden Track \"Black Mamba\")",
+      "artist": "Meiko Kaji",
+      "has_synced": true,
+      "path": "select/02_Urami_Bushi_(Includes_Hidden_Track__Black_Mamba_)_Meiko_Kaji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "The Academy Is...",
+      "has_synced": true,
+      "path": "select/03_Black_Mamba_The_Academy_Is....lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_Black_Mamba_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "Ol' Dirty Bastard feat. RZA & Masta Killa",
+      "has_synced": false,
+      "path": "select/05_Black_Mamba_Ol'_Dirty_Bastard_feat._RZA_&_Masta_Killa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Urami Bushi - + Hidden Track \"Black Mamba\"",
+      "artist": "Meiko Kaji",
+      "has_synced": false,
+      "path": "select/06_Urami_Bushi_-_+_Hidden_Track__Black_Mamba_Meiko_Kaji.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Mamba (Teddybears Remix)",
+      "artist": "The Academy Is...",
+      "has_synced": false,
+      "path": "select/07_Black_Mamba_(Teddybears_Remix)_The_Academy_Is....txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Mamba (Three In the Morning Party Mix)",
+      "artist": "The Academy Is...",
+      "has_synced": true,
+      "path": "select/08_Black_Mamba_(Three_In_the_Morning_Party_Mix)_The_Academy_Is....lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "The Academy Is…",
+      "has_synced": true,
+      "path": "select/09_Black_Mamba_The_Academy_Is....lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Mamba",
+      "artist": "Alpha Wolf",
+      "has_synced": false,
+      "path": "select/10_Black_Mamba_Alpha_Wolf.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Urami Bushi (+ Hidden Track \"Black Mamba\")",
+      "artist": "Meiko Kaji",
+      "has_synced": true,
+      "path": "select/11_Urami_Bushi_(+_Hidden_Track__Black_Mamba_)_Meiko_Kaji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Black Mamba",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Black_Mamba_aespa.txt"
+    }
+  ]
+}
