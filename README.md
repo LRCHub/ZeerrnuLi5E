@@ -1,0 +1,70 @@
+# aespa – Black Mamba
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.99] Hana yo Kirei to, Odaterare,
+[00:29.68] Saite Misereba, Sugu Chirasareru.
+[00:34.97] Baka-na, Baka-na,
+[00:37.55] Baka-na On'na no... Urami-bushi.
+[00:53.55] 
+[00:47.00] Sadame Kanashi to, Akiramete,
+[00:52.63] Naki-wo Misereba, Mata Nakasareru.
+[00:58.04] On'na, On'na,
+[01:01.16] On'na Namida no... Urami-bushi.
+[01:16.66] 
+[01:21.59] Nikui, Kuyashii, Yurusenai.
+[01:27.18] Kesu ni Kesenai, Wasure-rarenai.
+[01:32.40] Tsukinu, Tsukinu,
+[01:35.49] Tsukinu On'na no... Urami-bushi.
+[01:51.49] 
+[01:45.06] Yume yo Miren to, Warawarete,
+[01:49.04] Samete-misemasu, Mada Same-kirenu.
+[01:55.79] On'na, on'na,
+[01:58.29] On'na-gokoro no... Urami-bushi.
+[02:13.79] 
+[02:30.94] Makka-na Bara nya, Toge ga Aru.
+[02:36.00] Sashitaka-naiga Sasazu'nya-okanu.
+[02:41.67] Mo'eru, Mo'eru,
+[02:44.29] Mo'eru On'na-no... Urami-bushi.
+[02:59.79] 
+[02:53.57] Shinde Hanami ga, Sakuja Nashi,
+[02:59.29] Urami Hito-suji, Ikite-yuku.
+[03:04.74] On'na, On'na,
+[03:07.30] On'na Inochi no... Urami-bushi.
+[03:22.80] 
+[03:57.11] Uh huh huh. Black Mamba!
+[04:01.99] Uh huh huh. Black Mamba!
+[04:04.11] Uh huh huh. Black Mamba!
+[04:07.22] Uh huh huh. Black Mamba!
+[04:19.22] 
+[04:20.00] Yo unbreakable steel sword swingin', face the Black Mamba
+[04:23.33] Deadly Vipers, squeeze ya life out like anacondas
+[04:25.55] In the story, off wit ya head, the scene is gory
+[04:28.10] Single-edged steel blade made by Hattori
+[04:30.72] Hanzo, you see the signature of brother Han' though?
+[04:33.62] Try to strike out, you get ya arm dismantled
+[04:36.05] Chief of the Yakuza's wicked like Medusa
+[04:39.72] With Crazy 88's too, 'bout to meet ya maker
+[05:01.22] 
+[04:41.26] Ol' Dirty Bastard swordplay
+[04:43.10] Dirt McGirt be pickin' up skirts on 4th and Broadway
+[04:46.49] '70's bitch be suckin' my dick
+[04:49.16] Peurto Rican hoes be lickin' my split
+[04:51.88] California Mountain Snake on debate
+[04:54.69] Be givin' my head while I'm countin' my cake, crushin' up an 8th
+[04:58.15] Of that snow white shit, in the Pussy Wagon not hittin' the brakes!
+[05:31.65] 
+[05:02.74] Uh huh huh. Black Mamba!
+[05:07.04] Uh huh huh. Black Mamba!
+[05:12.94] Uh huh huh. Black Mamba!
+[05:17.84] Uh huh huh. Black Mamba!
+[05:22.98] Baaaaaamm. hidden swordstyle hits, I wish
+[05:26.44] A nigga would test the Black Mamba, in a spit like the coma
+[05:29.81] Fill his Copperhead with the hollow tip lead
+[05:32.37] Yo. who wanna dance with the fertile lands' deadly state?
+[05:35.42] Cottonmouth sticky from the Af' gooey
+[05:37.92] Blowin' smoke through the Viper Pit
+[05:39.44] Hold a listener tight, mic constrictor
+[05:41.96] Words from the theater, swift as Krishner
+```
